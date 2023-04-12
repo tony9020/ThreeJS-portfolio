@@ -10,7 +10,7 @@
         "build": "webpack"
     },
     "keywords": [],
-    "author": "Steven M. Caruso Design Studio",
+    "author": "Tony Christopher Design Studio",
     "license": "ISC",
     "devDependencies": {
         "copy-webpack-plugin": "latest",
